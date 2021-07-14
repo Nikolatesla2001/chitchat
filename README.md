@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://iread.ga">
+    <a href="https://github.com/geekymeeky">
         <img src="https://github.com/geekymeeky/chitchat/blob/master/images/logo.png" width="20%">
     </a>
 </p>
